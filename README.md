@@ -22,3 +22,6 @@ Berguna untuk menambahkan model
 
 Berguna untuk mengubah warna selection ( taruh di OnGameModeInit )
 ```ren_SelectionSetColor```
+
+Nama warna perbagian 
+![](https://github.com/rndwst/renSelection/blob/main/screenshot/Screenshot%20(22).png)
