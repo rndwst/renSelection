@@ -13,5 +13,10 @@ ren_SelectionSetColor(boxcolor = 125, modelcolor = -131, buttoncolor = -131)
 OnSelectionResponse(playerid, response, selectionid, modelid)
 ```
 
-### How To Use
-
+### Kegunaan
+Berguna untuk menampilkan selection
+```ren_ShowPlayerSelection```
+Berguna untuk menambahkan model
+```ren_AddSelectionModel```
+Berguna untuk mengubah warna selection ( taruh di OnGameModeInit )
+```ren_SelectionSetColor```
