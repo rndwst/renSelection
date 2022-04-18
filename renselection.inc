@@ -268,7 +268,7 @@ stock ren_CreateSelectionTextdraw(playerid)
 	PlayerTextDrawUseBox(playerid, ren_SelectionRightButton[playerid], 1);
 	PlayerTextDrawSetProportional(playerid, ren_SelectionRightButton[playerid], 1);
 	PlayerTextDrawSetSelectable(playerid, ren_SelectionRightButton[playerid], 1);
-	return printf("[ren_Selection] Loaded player textdraw");
+	return 1;
 }
 // ----------------------------------------------------------------------------------------------------
 public OnPlayerClickPlayerTextDraw(playerid, PlayerText:playertextid)
