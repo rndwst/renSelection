@@ -16,7 +16,9 @@ OnSelectionResponse(playerid, response, selectionid, modelid)
 ### Kegunaan
 Berguna untuk menampilkan selection
 ```ren_ShowPlayerSelection```
+
 Berguna untuk menambahkan model
 ```ren_AddSelectionModel```
+
 Berguna untuk mengubah warna selection ( taruh di OnGameModeInit )
 ```ren_SelectionSetColor```
